@@ -1,3 +1,5 @@
+&#9888; This project is not maintained anymore, use [this one](https://github.com/rightek/square.okhttp) instead.
+
 # OkHttp3
  Xamarin Android binding for [Square OkHttp3](https://github.com/square/okhttp) (An HTTP+HTTP/2 client for Android and Java applications).
 
