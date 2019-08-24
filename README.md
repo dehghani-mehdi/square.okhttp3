@@ -1,4 +1,4 @@
-# &#9888; Moved to [square.okhttp](https://github.com/rightek/square.okhttp) (_This project is not maintained anymore_)
+# &#9888; Moved to [square.okhttp](https://github.com/rightek/square.okhttp)
 
 # OkHttp3
  Xamarin Android binding for [Square OkHttp3](https://github.com/square/okhttp) (An HTTP+HTTP/2 client for Android and Java applications).
